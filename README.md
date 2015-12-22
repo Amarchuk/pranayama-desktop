@@ -15,4 +15,4 @@
 - run pranayama.py script (need to install pygame with dependencies).
 - you need to input five numbers - duration of inhale phase, first pause in breathing, exhale phase, second pause and total number of iterations. Then you may close your eyes and breathe according with music or breathe looking at stages progressbar. You may learn how long every stage is and how breathe properly from trial saagara version or from any online-manual (like [this] (http://blog.yogasynergy.com/2015/10/breathing-part-2-passive-seated-pranayama-generate-internal-energy-by-doing-less-than-nothing/)).
 
-![app screenshop](http://imgur.com/NgjuLW5 "Screenshot")
+![app screenshop](https://raw.githubusercontent.com/Amarchuk/pranayama-desktop/master/screenshot.png "Screenshot")
